@@ -59,4 +59,5 @@ This project provides a comprehensive framework to explore, analyze, and forecas
 ---
 
 **Author**: Kishore G
+
 **GitHub**: [Energy Consumption and Prediction](https://github.com/gnananawin/Energy-consumption-and-Prediction.git)
